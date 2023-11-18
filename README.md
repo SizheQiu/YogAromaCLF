@@ -9,3 +9,4 @@ Machnine learning based classification of yogurt aroma type
 - Hyperparameter optimization and model assessment for LR and linear SVC
 - Feature importance analysis of LR classifiers
 ## Citation
+Sizhe Qiu, Haoying Han, Hong Zeng, Bei Wang. (2024) Machine Learning Based Classification of Yogurt Aroma Types with Flavoromics. Food Chemistry.(Accepted)
